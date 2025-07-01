@@ -4,4 +4,5 @@ D:\卓工\暑假作业1\.venv\Scripts\python.exe D:\卓工\暑假作业1\自写.
 
 
 进程已结束，退出代码为 0
+
 ![Uploading terminal2.jpg…]()
